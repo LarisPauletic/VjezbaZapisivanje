@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\obj\Debug\VjezbaZapisivanje.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\obj\Debug\VjezbaZapisivanje.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\bin\Debug\VjezbaZapisivanje.exe.config
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\bin\Debug\VjezbaZapisivanje.exe
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\bin\Debug\VjezbaZapisivanje.pdb
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\obj\Debug\VjezbaZapisivanje.exe
+C:\Users\Laris\source\repos\VjezbaZapisivanje\VjezbaZapisivanje\obj\Debug\VjezbaZapisivanje.pdb
